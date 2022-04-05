@@ -7,6 +7,6 @@ public class MyFirstJavaProgram {
     public static void main(String[] args) {
         Namedatanew();
         topicindex();
-        System.out.println("Git practice");
+        System.out.println("Git homework for practice");
     }
 }
